@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Some extremely long-winded title goes here
 permalink: /about/
 ---
 
