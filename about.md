@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Some extremely long-winded title goes here
 permalink: /about/
 ---
